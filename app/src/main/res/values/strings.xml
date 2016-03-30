@@ -1,0 +1,22 @@
+<resources>
+    <string name="yo">Hello</string>
+    <string name="Welcome">Welcome to Douai !</string>
+    <string name="Events">Events</string>
+    <string name="Places">Places to visit</string>
+    <string name="Informations">Practical informations</string>
+    <string name="Circuits">Circuits</string>
+    <string name="circuits">Circuits</string>
+    <string name="events">Events</string>
+    <string name="Ip">Practical Infos</string>
+    <string name="app_name" translatable="false">DouaiIsMine</string>
+    <string name="lieu_1">Beffroi of Douai</string>
+    <string name="lieu_2">Lieu 2</string>
+    <string name="lieu_3">Lieu 3</string>
+    <string name="desc_lieu1">La lecture est également simplifiée grâce au nouveau mode Lecture. Vous pouvez réduire certaines parties du document et vous concentrer sur le texte désiré. Si vous devez stopper la lecture avant d’atteindre la fin de votre document, Word garde en mémoire l’endroit où vous avez arrêté la lecture, même sur un autre appareil.</string>
+    <string name="desc_lieu2">La lecture est également simplifiée grâce au nouveau mode Lecture. Vous pouvez réduire certaines parties du document et vous concentrer sur le texte désiré. Si vous devez stopper la lecture avant d’atteindre la fin de votre document, Word garde en mémoire l’endroit où vous avez arrêté la lecture, même sur un autre appareil.</string>
+    <string name="desc_lieu3">La lecture est également simplifiée grâce au nouveau mode Lecture. Vous pouvez réduire certaines parties du document et vous concentrer sur le texte désiré. Si vous devez stopper la lecture avant d’atteindre la fin de votre document, Word garde en mémoire l’endroit où vous avez arrêté la lecture, même sur un autre appareil.</string>
+    <string name="IP_mairie" translatable="false">Mairie</string>
+    <string name="IP_Odt" translatable="false">Office du tourisme</string>
+    <string name="IP_urg" translatable="false">N° d\'urgence</string>
+    <string name="IP_contact" translatable="false">Contactez-nous</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="yo">Bonjour</string>
+    <string name="Welcome">Bienvenue a Douai !</string>
+    <string name="Places">Lieux à visiter</string>
+    <string name="Informations">Informations Pratiques</string>
+    <string name="Events">Evènements</string>
+    <string name="Circuits">Circuits</string>
+    <string name="circuits">Circuits</string>
+    <string name="events">Evénements</string>
+    <string name="Ip">Infos Pratiques</string>
+    <string name="desc_lieu1">La lecture est également simplifiée grâce au nouveau mode Lecture. Vous pouvez réduire certaines parties du document et vous concentrer sur le texte désiré. Si vous devez stopper la lecture avant d’atteindre la fin de votre document, Word garde en mémoire l’endroit où vous avez arrêté la lecture, même sur un autre appareil.</string>
+    <string name="desc_lieu2">La lecture est également simplifiée grâce au nouveau mode Lecture. Vous pouvez réduire certaines parties du document et vous concentrer sur le texte désiré. Si vous devez stopper la lecture avant d’atteindre la fin de votre document, Word garde en mémoire l’endroit où vous avez arrêté la lecture, même sur un autre appareil.</string>
+    <string name="desc_lieu3">La lecture est également simplifiée grâce au nouveau mode Lecture. Vous pouvez réduire certaines parties du document et vous concentrer sur le texte désiré. Si vous devez stopper la lecture avant d’atteindre la fin de votre document, Word garde en mémoire l’endroit où vous avez arrêté la lecture, même sur un autre appareil.</string>
+</resources>

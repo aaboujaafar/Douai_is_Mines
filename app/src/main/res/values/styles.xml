@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" >
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
