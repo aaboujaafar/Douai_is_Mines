@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         m.start();
         m = MediaPlayer.create(this,R.raw.fr_40006);
         m.start();
+
     }
     public void startEvents(View view){
         Intent intent = new Intent(this, events.class);
